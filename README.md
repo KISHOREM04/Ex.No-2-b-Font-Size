@@ -8,6 +8,7 @@ To develop an application that uses GUI Components with Fonts and Colors using a
 Android Studio(Min. required Artic Fox)
 
 ## ALGORITHM:
+```
 Step 1: Create a New Android Project:
               • Click New in the toolbar.
               • In the window that appears, open the Android folder, select Android Application Project,
@@ -29,7 +30,7 @@ Step 4: Run the application.
 Step 5:On pressing the change font size button, the size of the font gets altered.
 Step 6: On pressing the Color button, the color of the text altered.
 Step 6:Close the Android project. 
-
+```
 
 ## Program:
  ```
