@@ -150,13 +150,10 @@ public class MainActivity extends AppCompatActivity {
         android:text="Change color"
         android:textSize="25sp" />
 </LinearLayout>
-
-
 ```
 ## Output:
-
-![image](https://github.com/user-attachments/assets/65312173-3b17-44f3-b0b2-1b61d514db6f)
-![image](https://github.com/user-attachments/assets/0ccdaa8a-b8de-453f-a77b-27ebe807be8c)
+![image](https://github.com/user-attachments/assets/ee5a3faa-e15e-4f45-8efc-9331c64f294e)
+![image](https://github.com/user-attachments/assets/a834441c-9593-4725-963d-dd1e234e535d)
 
 ## Result:
 Thus, the program for android application, Font Size and color was executed successfully using Android Studio.
